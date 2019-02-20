@@ -1,0 +1,20 @@
+{
+    "name": "vladzur/apicultor-php",
+    "description": "Micro framework to build APIs",
+    "type": "library",
+    "require": {
+        "league/route": "^4.2",
+        "league/container": "^3.2",
+        "illuminate/database": "^5.7",
+        "zendframework/zend-diactoros": "^2.1",
+        "league/fractal": "^0.17.0",
+        "illuminate/pagination": "^5.7"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "vladzur",
+            "email": "vladzur@gmail.com"
+        }
+    ]
+}
