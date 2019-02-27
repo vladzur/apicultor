@@ -12,7 +12,7 @@
         "psr/http-factory": "^1.0",
         "zendframework/zend-httphandlerrunner": "^1.1"
     },
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "vladzur",
