@@ -1,6 +1,9 @@
 <?php
+/**
+ * Example
+ */
 
-require __DIR__ . '/vendor/autoload.php';
+require dirname(__FILE__) . '/../vendor/autoload.php';
 
 $api = new Vladzur\Apicultor\Apicultor;
 $api->router->get('/resource', 'ResourceController::index');
