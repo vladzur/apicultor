@@ -1,5 +1,5 @@
 {
-    "name": "vladzur/apicultor-php",
+    "name": "vladzur/apicultor",
     "description": "Micro framework to build APIs",
     "type": "library",
     "require": {
