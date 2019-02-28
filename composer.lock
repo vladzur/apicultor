@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "e39a6eab4f44e53818f5e11fa50423bf",
+    "content-hash": "38974c67d86e25a8957356da675f36f8",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -75,7 +75,7 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v5.8.0",
+            "version": "v5.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
@@ -120,7 +120,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v5.8.0",
+            "version": "v5.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -164,16 +164,16 @@
         },
         {
             "name": "illuminate/database",
-            "version": "v5.8.0",
+            "version": "v5.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
-                "reference": "488a1e7bab73099b5bc5284b25a71c59a0741f96"
+                "reference": "a9696050ee570fd1f59b0045aa3fe27458c48986"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/database/zipball/488a1e7bab73099b5bc5284b25a71c59a0741f96",
-                "reference": "488a1e7bab73099b5bc5284b25a71c59a0741f96",
+                "url": "https://api.github.com/repos/illuminate/database/zipball/a9696050ee570fd1f59b0045aa3fe27458c48986",
+                "reference": "a9696050ee570fd1f59b0045aa3fe27458c48986",
                 "shasum": ""
             },
             "require": {
@@ -220,11 +220,11 @@
                 "orm",
                 "sql"
             ],
-            "time": "2019-02-26T15:24:16+00:00"
+            "time": "2019-02-27T13:46:50+00:00"
         },
         {
             "name": "illuminate/pagination",
-            "version": "v5.8.0",
+            "version": "v5.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/pagination.git",
@@ -269,16 +269,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v5.8.0",
+            "version": "v5.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "f4eef6632fa23bcfb02d8029b7dce37ceb6a5801"
+                "reference": "013cfab5d44c530b56d70cc9ccb891c8b25ebbce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/f4eef6632fa23bcfb02d8029b7dce37ceb6a5801",
-                "reference": "f4eef6632fa23bcfb02d8029b7dce37ceb6a5801",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/013cfab5d44c530b56d70cc9ccb891c8b25ebbce",
+                "reference": "013cfab5d44c530b56d70cc9ccb891c8b25ebbce",
                 "shasum": ""
             },
             "require": {
@@ -326,7 +326,7 @@
             ],
             "description": "The Illuminate Support package.",
             "homepage": "https://laravel.com",
-            "time": "2019-02-23T15:01:19+00:00"
+            "time": "2019-02-27T14:00:44+00:00"
         },
         {
             "name": "league/container",
@@ -532,16 +532,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.14.0",
+            "version": "2.14.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "7a748bc397bd14b8a43b13beca73a8ffec554fd9"
+                "reference": "e68f869575bd703276be8d4264799cd3cce28107"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/7a748bc397bd14b8a43b13beca73a8ffec554fd9",
-                "reference": "7a748bc397bd14b8a43b13beca73a8ffec554fd9",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/e68f869575bd703276be8d4264799cd3cce28107",
+                "reference": "e68f869575bd703276be8d4264799cd3cce28107",
                 "shasum": ""
             },
             "require": {
@@ -588,7 +588,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2019-02-25T20:57:37+00:00"
+            "time": "2019-02-27T13:59:59+00:00"
         },
         {
             "name": "nikic/fast-route",
